@@ -10,4 +10,5 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 - (další měsíce přibudou)
 
 ## Kdo
+Založeno 21. 9. 2026.
 Kód žáka: 16 · třída IT2
